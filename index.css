@@ -1,0 +1,27 @@
+
+        h2 {
+            color: #333;
+        }
+        table {
+            color:#333;
+        }
+        th {
+			background-color:#b6b6b6;
+            color:#333;
+        }
+        td {
+            border-bottom: 1px solid #233554;
+        }
+        footer {
+            color:#382C28;
+        }
+		p {
+            color:#333;
+        }
+		mark {
+            background-color:#f4f4f4;
+        }
+		a{
+			color:#333;
+			text-decoration:none;
+		}
